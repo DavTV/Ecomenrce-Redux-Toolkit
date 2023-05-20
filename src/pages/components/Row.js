@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+// import Link from "next/link";
 import { useState } from "react";
 import { useDispatch } from "react-redux";
 import {deleteProduct, editProduct} from "../../reducers/car/carSlice";
